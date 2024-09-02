@@ -4,6 +4,11 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+## Proyecto Calculadora iOS
+
+Esto es un proyecto nativo del CLI de React Native de la construcción de la calculadora tradicional de iOS usando Custom Hooks, reutilización de componentes, diseño con flexbox y paleta de colores configuradas y preestablecidas para sus buenas prácticas. 
+Esta contiene la fórmula de las operaciones matemáticas básicas para hacer el cálculo exacto. Además, contiene los eventos/métodos para poder eliminar completamente la operación, eliminar el último valor y resetear sus valores previos mediante estados (useState).
+
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
